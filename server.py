@@ -9,7 +9,7 @@ load_dotenv()
 token = os.getenv("NOTION_TOKEN")
 
 
-mcp = FastMCP("My App",)
+mcp = FastMCP("Notion_MCP",)
 
 # Global Config
 url = 'https://api.notion.com/v1'
