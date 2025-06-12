@@ -2,3 +2,4 @@ mcp[cli]
 fastmcp
 httpx
 python-dotenv
+notion-client
