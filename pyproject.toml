@@ -1,0 +1,14 @@
+[project]
+name = "notion_mcp"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fastapi>=0.115.12",
+    "mcp[cli]>=1.9.0",
+    "md2notion>=2.4.1",
+    "notion-client>=2.3.0",
+    "requests>=2.32.3",
+]
